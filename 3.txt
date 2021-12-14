@@ -1,0 +1,3 @@
+1) find ./file.sh > /dev/null && echo "Файл сущетсвует"
+2) chown user:users ./file.sh
+3) chmod 750 ./file.sh
